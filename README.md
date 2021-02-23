@@ -2,6 +2,8 @@ Hi there 👋
 
 My name is Maksym and I'm a beginner game developer. 
 
+**Connect with me:**
+
 <p align='left'>
   <a
     href="https://www.linkedin.com/in/hernetsmaksym/"
