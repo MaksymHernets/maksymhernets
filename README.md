@@ -32,4 +32,13 @@ My name is Maksym and I'm a beginner game developer.
     >
   </a>
   &nbsp;
+  <a
+   href="https://join.skype.com/invite/nFA1kDEyZ1ZE"
+  >
+    <img
+      height="30"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg"
+    >
+  </a>
+  &nbsp;
 </p>
