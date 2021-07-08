@@ -2,6 +2,13 @@ Hi there 👋
 
 My name is Maksym and I'm a beginner game developer. 
 
+My skills:
+•	  Unity (UniRx, DOTween, Zenject);
+• 	C# (ADO.Net, ASP.NET, LINQ, T-SQL), C++;
+•	  XUnit, Git, TFS, ClickUp, Kanban;
+•	  Steam SDK, Firebase SDK, Ficebook SDK;
+•	  Blender, Photoshop;
+
 **Connect with me:**
 
 <p align='left'>
