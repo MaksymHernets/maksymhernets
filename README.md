@@ -50,4 +50,13 @@ My skills:
     >
   </a>
   &nbsp;
+  <a
+   href="https://www.imdb.com/user/ur125882622"
+  >
+    <img
+      height="30"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/imdb.svg"
+    >
+  </a>
+  &nbsp;
 </p>
