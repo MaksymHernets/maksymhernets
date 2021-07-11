@@ -51,6 +51,15 @@ My skills:
   </a>
   &nbsp;
   <a
+   href="https://play.google.com/store/apps/dev?id=6463383709184524179"
+  >
+    <img
+      height="30"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg"
+    >
+  </a>
+  &nbsp;
+  <a
    href="https://www.imdb.com/user/ur125882622"
   >
     <img
