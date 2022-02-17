@@ -4,9 +4,9 @@ My name is Maksym and I'm a beginner game developer.
 
 My skills:
 <ul>
-  <li> Unity (Zenject, UniRx, ShaderGraph); </li>
+  <li> Unity (Zenject, UniRx, ShaderGraph, Addressables); </li>
   <li> C# (LINQ, T-SQL, XUnit) </li>
-  <li> Blender, Photoshop;</li>
+  <li> Blender, Krita;</li>
 </ul>
 
 **Connect with me:**
