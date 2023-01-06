@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Maksym and I'm a beginner game developer. 
+My name is Maksym and I'm a game developer. 
 
 My skills:
 <ul>
